@@ -1,0 +1,21 @@
+body{
+    background: #444;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+section{
+    width: 70%;
+    height: 25vh;
+    border: 1px solid #333;
+    margin-top: 35vh ;
+}
+textarea{
+    width: 70%;
+    height: 60vh;
+    margin-top: 2.5vh;
+    border-radius: 10px;
+    background: #888;
+    border: 0;
+    resize: none;
+}
